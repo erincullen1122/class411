@@ -96,6 +96,15 @@ header nav ul li a {
   color: #f9e42e;
 }
 
+
+
+label {
+ display: inline-block;
+ width: 100%;
+}
+
+
+
 #hero {
   height: 700px;
   background: url(../images/header_bg.jpg) no-repeat top center #131e27;
@@ -122,6 +131,14 @@ header nav ul li a {
   display: block;
   margin: 0 auto;
 }
+
+.blue {
+  background: #033048;
+  color: #fff;
+  font-size: 1rem;
+}
+  
+
 .yellow {
   background: #f9e42e;
   color: #033048;
